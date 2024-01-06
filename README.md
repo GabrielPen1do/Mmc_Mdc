@@ -19,3 +19,6 @@ Nas opções 1 e 2 o programa deve ler os valores do teclado, passar para o mét
 em seguida o retorno do método deve ser impresso na tela. O programa deve repetir esses
 passos até que o usuário escolha a opção 3.
 
+# Como acessar 
+Clone este repositório para o ambiente local.
+
